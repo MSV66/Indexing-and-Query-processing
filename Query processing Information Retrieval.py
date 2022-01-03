@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 
-import glob
-import math
 import re
 import sys
 from collections import defaultdict
